@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "dist/",
-  "projectname": "my-taro-app",
+  "projectname": "2048-game-weapp",
   "description": "2048",
   "appid": "wx20c88c38adb4cc86",
   "setting": {

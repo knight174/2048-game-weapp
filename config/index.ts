@@ -1,7 +1,7 @@
 import { defineConfig } from "@tarojs/cli";
 
 export default defineConfig({
-  projectName: "my-taro-app",
+  projectName: "2048-game-weapp",
   date: "2024-12-09",
   designWidth: 750,
   deviceRatio: {
